@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Gantt from './Gantt'
+import Main from './Main'
 
 function App() {
   return (
     <div className="App">
-      <Gantt/>
+      <Main/>
     </div>
   );
 }
